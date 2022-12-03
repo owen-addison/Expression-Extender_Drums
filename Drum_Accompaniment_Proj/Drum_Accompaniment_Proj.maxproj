@@ -1,9 +1,9 @@
 {
 	"name" : "Drum_Accompaniment_Proj",
 	"version" : 1,
-	"creationdate" : 3746542092,
-	"modificationdate" : 3746542092,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"creationdate" : 3752922214,
+	"modificationdate" : 3752922327,
+	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -15,10 +15,19 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
+,
+			"shuffle-swing.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
+
+		}
+,
+		"code" : 		{
 
 		}
 
@@ -38,5 +47,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 0,
+	"includepackages" : 0
 }
